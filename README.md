@@ -8,7 +8,7 @@
 
 **Future Improvements:** Add functionality for backend data storage to save user login information along with account balances. Add font/back end user authentication and authorization.  
 
-**Technology Used:** Javascript and React framework.  Bootstrap.  
+**Technology Used:** Javascript and React framework built using create-react-app.  Bootstrap for styling.  
 
 **Usage:** Educational/entertainment purposes.  
 
@@ -16,4 +16,5 @@
 
 **GIF Demo** 
 
- ![badBank](https://user-images.githubusercontent.com/23172832/139355449-e40c51d9-f0f1-4dcc-8026-74f7cccb5584.gif)
+![badBank](https://user-images.githubusercontent.com/23172832/139355590-c6e97126-1f60-4d40-b5aa-ec40ec3b6dab.gif)
+
